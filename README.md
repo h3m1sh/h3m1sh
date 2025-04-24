@@ -23,9 +23,19 @@ I enjoy creating real-world solutions with clean code, learning new tools, and c
 
 ---
 
-### 🔧 Tech I’ve Worked With
-`JavaScript` `React.js` `Node.js` `Express.js` `MongoDB`  
-`HTML5` `CSS3` `Vite` `React Router` `Postman` `Git & GitHub`
+### 🔧 Tech Skills
+**Languages & Markup:**  
+`JavaScript (ES6+)` `HTML5` `CSS3` `JSX`
+
+**Frontend:**  
+`React.js` `Vite` `React Router` `CSS Modules` `Responsive Web Design`
+
+**Backend & APIs:**  
+`Node.js` `Express.js` `MongoDB` `RESTful APIs` `CRUD operations`
+
+**Tools & Dev Workflow:**  
+`Git & GitHub` `Postman` `Visual Studio Code` `Google Maps API`  
+`Agile / Scrum` `Terminal / CLI` `npm` `Figma to Code`
 
 ---
 
