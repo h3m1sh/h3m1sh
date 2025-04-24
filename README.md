@@ -34,8 +34,8 @@ I enjoy creating real-world solutions with clean code, learning new tools, and c
 `Node.js` `Express.js` `MongoDB` `RESTful APIs` `CRUD operations`
 
 **Tools & Dev Workflow:**  
-`Git & GitHub` `Postman` `Visual Studio Code` `Google Maps API`  
-`Agile / Scrum` `Terminal / CLI` `npm` `Figma to Code`
+`Git & GitHub` `Postman` `Visual Studio Code`   
+`Agile / Scrum` `Terminal / CLI` 
 
 ---
 
