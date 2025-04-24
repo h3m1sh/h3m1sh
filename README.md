@@ -30,13 +30,13 @@ I enjoy creating real-world solutions with clean code, learning new tools, and c
 ---
 
 ### 📂 Featured Projects
-[🔗 Z Energy Mobile App (POC)](https://github.com/YOUR-USERNAME/z-energy-mobile-app)  
+[🔗 Z Energy Mobile App (POC)]([https://github.com/YOUR-USERNAME/z-energy-mobile-app](https://github.com/TheKoalaBear/z-energy-app))  
 A fully functional prototype with real-world features like fuel price comparison, Pay by Plate, card payment flow, and custom Google Maps integration.
 
 ---
 
 ### 📫 Get In Touch
 Feel free to connect or reach out:    
-💼 [LinkedIn][(https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/hamish-elliot-82443a2b3/))
+💼 [LinkedIn](https://www.linkedin.com/in/hamish-elliot-82443a2b3/)
 
 ---
